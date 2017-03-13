@@ -65,6 +65,7 @@
 *   [clean-css](https://github.com/jakubpawlowicz/clean-css)
     — Fast and efficient CSS optimizer for node.js and the Web
 *   Critical CSS
+*   Combine external CSS files. Merge them into as few files as possible
 
 ### HTML
 
