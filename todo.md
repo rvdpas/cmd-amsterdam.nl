@@ -84,6 +84,7 @@
 
 *   Downsize images with Adobe PhotoShop, by saving for web
 *   Loading the logo's inline
+*   Use SVG for images, although Wordpress doesn't support this due to [security isues](https://www.bjornjohansen.no/svg-in-wordpress)
 
 ### Perceived Performance
 
