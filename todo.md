@@ -54,6 +54,7 @@
 
 *   [gulp-rev](https://github.com/sindresorhus/gulp-rev)
     — Static asset revisioning by appending content hash to filenames
+*   Caching plugin for Wordpress https://www.w3-edge.com/products/w3-total-cache
 *   Use [Varnish Caching](http://varnishspeedtest.nl/?url=https%3A%2F%2Fwww.cmd-amsterdam.nl%2Fcmd%2F) for up to 300% speed increase
 *   [WP Rocket](https://wp-rocket.me/) - Most advanced caching plugin for WordPress.
 
