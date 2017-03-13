@@ -10,6 +10,7 @@
 *   [Reduce the number of plugins you use on your site] (https://hostingfacts.com/how-to-speed-up-your-website/#1) 
 *   Fallbacks for HTML, CSS and JavaScript
 *   Reduce inline javascript
+*   Eliminate render-blocking JavaScript and CSS in above-the-fold content
 
 ## HTTP optimisation
 
