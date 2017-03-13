@@ -103,6 +103,7 @@
 ### Perceived Performance
 
 *   [Facebook content placeholder](http://cloudcannon.com/deconstructions/2014/11/15/facebook-content-placeholder-deconstruction.html)
+*   Add animations to improve the perceived performance. Let the user know it's loading. (http://tobiasahlin.com/spinkit/)
 
 ## Server-side optimisation
 
