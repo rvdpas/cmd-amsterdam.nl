@@ -76,6 +76,7 @@
 
 *   [Uglify](https://github.com/mishoo/UglifyJS2)
     — JavaScript parser / mangler / compressor / beautifier toolkit
+*   What if no javascript is loaded? (fallback for menu? maybe?)
 
 ### Fonts
 *   Subset fonts using fontsquirrel
