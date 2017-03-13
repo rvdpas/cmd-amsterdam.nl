@@ -66,6 +66,7 @@
     — Fast and efficient CSS optimizer for node.js and the Web
 *   Critical CSS
 *   Combine external CSS files. Merge them into as few files as possible
+*   Remove unused CSS rules. A lot of rules aren't used is the CSS files.
 
 ### HTML
 
