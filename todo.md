@@ -80,6 +80,7 @@
     — JavaScript parser / mangler / compressor / beautifier toolkit
 *   Optimise script loading (defer attribute in script src) [source](https://www.w3schools.com/tags/att_script_defer.asp)
 *   What if no javascript is loaded? (fallback for menu? maybe?)
+*   Use attribute 'defer' if you want to place scripts in the head
 
 ### Fonts
 *   Subset fonts using fontsquirrel
