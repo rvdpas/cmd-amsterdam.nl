@@ -5,6 +5,7 @@
 *   Tip: Apart Profiel / gebruiker in Chrome zonder plugins
 *   Display skeleton screens instead of loading indicators
 *   [Use gzip compression on assets](http://softstribe.com/wordpress/enable-gzip-compression-in-wordpress/)
+*   Add [AMP](https://www.ampproject.org/) to create fast blogposts 
 
 ## HTTP optimisation
 
@@ -32,7 +33,6 @@
 *   [client hints](http://httpwg.org/http-extensions/client-hints.html)
 *   [`srcset`](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/) and [`sizes`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#Example_4_Using_the_srcset_and_sizes_attributes)
 *   [`<picture>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
-*   [Lazyload images](http://verlok.github.io/lazyload/)
 
 ## Caching
 
@@ -67,9 +67,8 @@
 *   [Facebook content placeholder](http://cloudcannon.com/deconstructions/2014/11/15/facebook-content-placeholder-deconstruction.html)
 
 ## Server-side optimisation
-
-*   Upgrade PHP to version 7. [It's much faster.](http://blog.wpoven.com/2016/03/31/php-5-6-vs-php-7-wordpress-sites-nginx/)
-*   Enable the nginx content cache. [Documentation](https://www.nginx.com/resources/admin-guide/content-caching/)
+ 
+*  Upgrade PHP to version 7. [It's much faster.](http://blog.wpoven.com/2016/03/31/php-5-6-vs-php-7-wordpress-sites-nginx/)
 
 ### Void Space
 
