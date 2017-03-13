@@ -5,6 +5,7 @@
 *   Tip: Apart Profiel / gebruiker in Chrome zonder plugins
 *   Display skeleton screens instead of loading indicators
 *   [Use gzip compression on assets](http://softstribe.com/wordpress/enable-gzip-compression-in-wordpress/)
+*   [Text in Image :frowning:](http://ux.stackexchange.com/questions/41593/is-the-usage-of-text-embedded-in-an-image-a-bad-practice-for-very-controlled-us)
 *   Use HTTPS to serve images (console gives 'insecure content' warning)
 *   Store PDF files on https://aws.amazon.com/s3/
 *   [Reduce the number of plugins you use on your site] (https://hostingfacts.com/how-to-speed-up-your-website/#1) 
