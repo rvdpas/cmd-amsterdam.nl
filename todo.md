@@ -98,6 +98,7 @@
 *   Save images as WEBP https://developers.google.com/speed/webp/gallery1
 *   Loading the logo's inline
 *   Use SVG for images, although Wordpress doesn't support this due to [security isues](https://www.bjornjohansen.no/svg-in-wordpress)
+*   Use Kraken.io (https://kraken.io/) to compress images
 
 ### Perceived Performance
 
