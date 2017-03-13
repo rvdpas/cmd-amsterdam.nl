@@ -11,6 +11,7 @@
 *   Fallbacks for HTML, CSS and JavaScript
 *   Reduce inline javascript
 *   Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*   Minimize cookie size
 
 ## HTTP optimisation
 
