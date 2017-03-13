@@ -14,6 +14,7 @@
 *   Reduce inline javascript
 *   Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *   Minimize cookie size
+*   Reduce Latency with a Content Delivery Network (CDN)
 
 ## HTTP optimisation
 
@@ -105,6 +106,7 @@
 *   Loading the logo's inline
 *   Use SVG for images, although Wordpress doesn't support this due to [security isues](https://www.bjornjohansen.no/svg-in-wordpress)
 *   Use Kraken.io (https://kraken.io/) to compress images
+*   Serve Scaled Images
 
 ### Perceived Performance
 
