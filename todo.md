@@ -43,6 +43,7 @@
 *   Compress images with [TinyPNG](https://tinypng.com/) or [TinyJPG](https://tinyjpg.com/) to reduce filesizes before upload
     * TinyPNG also have a WordPress plugin that works with the API of TinyPNG, so when you upload a image in WordPress it will also automatically compressed for every image size WordPress generates.
 *   [Lazyload images](http://verlok.github.io/lazyload/)
+*   Manually compress images with https://compressor.io
 *   Use sprites (Les requests) for small images
 
 ## JavaScript performance
