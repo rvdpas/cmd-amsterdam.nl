@@ -44,16 +44,19 @@
 
 *   [clean-css](https://github.com/jakubpawlowicz/clean-css)
     — Fast and efficient CSS optimizer for node.js and the Web
+    — Remove unused css files / use cascading
 
 ### HTML
 
 *   [html-minifier](https://github.com/kangax/html-minifier)
     — Javascript-based HTML compressor/minifier
+    — Remove unused js files
 
 ### JavaScript
 
 *   [Uglify](https://github.com/mishoo/UglifyJS2)
     — JavaScript parser / mangler / compressor / beautifier toolkit
+    
 
 ### Fonts
 
