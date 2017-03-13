@@ -55,7 +55,7 @@
     — JavaScript parser / mangler / compressor / beautifier toolkit
 
 ### Fonts
-
+- remove blocking font loading
 ### Images
 
 *   Downsize images with Adobe PhotoShop, by saving for web
