@@ -77,6 +77,7 @@
 
 *   [Uglify](https://github.com/mishoo/UglifyJS2)
     — JavaScript parser / mangler / compressor / beautifier toolkit
+*   Optimise script loading (defer attribute in script src) [source](https://www.w3schools.com/tags/att_script_defer.asp)
 *   What if no javascript is loaded? (fallback for menu? maybe?)
 
 ### Fonts
